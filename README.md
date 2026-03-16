@@ -1,3 +1,3 @@
 # README
 
-This repo is a space share workings I do in relation to company analysis.
+This repo is a space to share workings I do in relation to company analysis.
